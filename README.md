@@ -6,7 +6,8 @@ The service returns actionable insights such as:
 
 - ✅ **Limit Catch Entry**
 - ✅ **In-Price Entry**
-- ❌ **No Entry** (when conditions aren't met)
+- ❌ **No Entry** (when conditions aren't met)![chart2](https://github.com/user-attachments/assets/f470921f-49a2-4a8e-ac12-1cf75ae13042)
+
 
 Ideal for **backtesting**, **signal generation**, or integrating with a **trading bot** or dashboard.
 
