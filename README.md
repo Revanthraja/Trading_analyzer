@@ -128,3 +128,6 @@ IMPULSE_CONFIG = {
 
 TREND_THRESHOLD_PCT = 0.1            # Threshold % for trend detection
 TREND_LOOKBACK = 10                  # Candles to look back for trend/BOS
+```
+
+
